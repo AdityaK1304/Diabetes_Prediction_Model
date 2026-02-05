@@ -1,0 +1,8 @@
+README.md
+main.py
+pyproject.toml
+diabetes_prediction_model.egg-info/PKG-INFO
+diabetes_prediction_model.egg-info/SOURCES.txt
+diabetes_prediction_model.egg-info/dependency_links.txt
+diabetes_prediction_model.egg-info/requires.txt
+diabetes_prediction_model.egg-info/top_level.txt
